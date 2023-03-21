@@ -5,7 +5,7 @@ Copy element text content or input values to the clipboard.
 ## Installation
 
 ```
-$ npm install --save @github/clipboard-copy-element
+$  npm install --save @github/clipboard-copy-element
 ```
 
 ## Usage
